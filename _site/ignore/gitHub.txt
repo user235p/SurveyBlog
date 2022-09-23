@@ -1,0 +1,12 @@
+git remote add origin https://github.com/user235p/Survey.git
+
+Web Seite:
+
+https://user235p.github.io/Survey/
+
+
+Blog Web Seite:
+
+git remote add origin https://github.com/user235p/SurveyBlog.git
+
+https://github.com/user235p/SurveyBlog.git
