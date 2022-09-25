@@ -7,6 +7,10 @@ https://user235p.github.io/Survey/
 
 Blog Web Seite:
 
+https://pages.github.com/
+
+https://user235p.github.io/SurveyBlog/
+
 git remote add origin https://github.com/user235p/SurveyBlog.git
 
 https://github.com/user235p/SurveyBlog.git

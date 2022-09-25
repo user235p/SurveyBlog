@@ -1,6 +1,6 @@
 - name: Home
-  link: /SurveyBlog/
+  link: /
 - name: About
-  link: /SurveyBlog/about.html
+  link: /about.html
 - name: Blog
-  link: /SurveyBlog/blog.html
+  link: /blog.html
