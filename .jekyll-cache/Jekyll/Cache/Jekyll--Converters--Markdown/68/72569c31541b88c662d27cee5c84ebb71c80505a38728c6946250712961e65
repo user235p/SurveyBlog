@@ -1,0 +1,16 @@
+I"*<h1 id="witch-sw-development-tools-are-state-of-the-art">Witch SW development tools are state of the art?</h1>
+
+<h2 id="introduction">Introduction:</h2>
+<p>When starting with AI development, the first point is to know the state of the art in SW development.  In order to select the best tools that past for you is not trivial. 
+You can look at several blogs and develop your mind. 
+I want to take you in my journey for the search of such tools. Stack overflow is a well known blog site and they make each day a survey with very interesting questions about the programming field. So I took the most up-to-date data (survey 2022) and looked for answers to my question.</p>
+
+<h2 id="operating-system">Operating System.</h2>
+<p>Looking at the survey, Windows, Linux and macOS are the most used operating systems.</p>
+
+<p><img src="/assets/images/OperatingSystem.png" alt="OS" /></p>
+
+<p>For our AI purpose we select the people that indicated to work as data scientist or machine learning.</p>
+
+<p><img src="/assets/images/AI_language.png" alt="Development types" /></p>
+:ET
