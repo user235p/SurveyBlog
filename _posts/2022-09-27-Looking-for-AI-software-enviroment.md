@@ -1,23 +1,25 @@
 ---
 layout: post
-author: jill
+author: joe
 ---
 ### Witch sofware enviroment tools are state of the art for AI development?
 A data based approach using Stack Overflow´s developer survey data from 2022.
 
-#### Introduction:
+### Introduction:
 **When starting with AI development, the first point is to know the state of the art in SW development.  In order to select the best tools that past for you is not trivial. 
 You can look at several blogs in internet and develop your oppinion. 
 I want to take you in my journey for the search of such tools for my case. This way I hope you can apply the same argumentation and data search for finding the right setup for your case.**
 
 Stack overflow is a well known blog site and they make every year a survey with very interesting questions about the programming field where people arround the world answer. This seems to me a good source of data in order to take my decission based on such facts, avoiding the bias of searching on the web.
 
-So I took the most up-to-date data (survey 2022) and looked for answers to my question.
+So I took the most up-to-date data (survey 2022) and looked for answers to my questions:
+
+
 
 ### Operating System.
 Looking at the survey, Windows, Linux and macOS are the most used operating systems. 
 
-![OS](/assets/images/OperatingSystem.png)
+![OS]({{ post.url }}/assets/images/OperatingSystem.png)
 
 For our AI purpose we select the people that indicated to work as data scientist or machine learning.
 
@@ -69,7 +71,7 @@ GIT is the most used version management tool with a lot of distance to the well 
 
 Therefore GIT is a good recommendation for our group. This is independent of AI development or other SW development. 
 
-## Version Management tool:
+## Conclusions
 
 
 

@@ -1,24 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Looking For Ai Software Enviroment</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <nav>
-  
-    <a href="/" >Home</a>
-  
-    <a href="/about.html" >About</a>
-  
-    <a href="/blog.html" >Blog</a>
-  
-</nav>
-    <h1>Looking For Ai Software Enviroment</h1>
-<p>27 Sep 2022 - joe</p>
-
-<h3 id="witch-sofware-enviroment-tools-are-state-of-the-art-for-ai-development">Witch sofware enviroment tools are state of the art for AI development?</h3>
+I"p<h3 id="witch-sofware-enviroment-tools-are-state-of-the-art-for-ai-development">Witch sofware enviroment tools are state of the art for AI development?</h3>
 <p>A data based approach using Stack Overflow´s developer survey data from 2022.</p>
 
 <h3 id="introduction">Introduction:</h3>
@@ -85,6 +65,4 @@ On the survey we find four very usual AI libraries: TensorFlow, Scikit-learn, To
 
 <h2 id="conclusions">Conclusions</h2>
 
-
-  </body>
-</html>
+:ET
