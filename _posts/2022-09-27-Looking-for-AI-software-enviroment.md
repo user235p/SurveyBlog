@@ -19,7 +19,7 @@ So I took the most up-to-date data (survey 2022) and looked for answers to my qu
 ### Operating System.
 Looking at the survey, Windows, Linux and macOS are the most used operating systems. 
 
-![OS](/SurveyBlog/assets/images/OperatingSystem.png)
+![OS]({{ site.baseurl }}/assets/images/OperatingSystem.png)
 
 For our AI purpose we select the people that indicated to work as data scientist or machine learning.
 
