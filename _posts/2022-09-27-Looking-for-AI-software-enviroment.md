@@ -2,6 +2,9 @@
 layout: post
 author: joe
 ---
+
+<img src="{{ site.baseurl }}/assets/images/PostTitle.png" width="400">
+
 ### Witch sofware enviroment tools are state of the art for AI development?
 A data based approach using Stack Overflow´s developer survey data from 2022.
 
@@ -30,7 +33,7 @@ About 5% of the people work as data scientist or machine learning.
 If we look in the group of people that work with data science or machine learning, windows and Linux are the most used operating systems.
 
 
-![Development types]({{ site.baseurl }}/assets/images/OperatingSystemML.png)
+![OS for machine learning]({{ site.baseurl }}/assets/images/OperatingSystemML.png)
 
 As at my group Windows is good available, we can say that this is an appropriate operating system for us.
 
@@ -39,12 +42,12 @@ As at my group Windows is good available, we can say that this is an appropriate
 At our group there is a main stream for programming SW and working with data: Matlab.
 Looking at the survey it seems not to be the main stream.
 
-![Development types]({{ site.baseurl }}/assets/images/Matlab.png)
+![Weight of MATLAB]({{ site.baseurl }}/assets/images/Matlab.png)
 
 Only about 4% of the people work with Matlab. 
 If we look into the group of people working in data science/machine learning, the most used language is Python:
 
-![Development types]({{ site.baseurl }}/assets/images/AI_language.png)
+![Language for AI]({{ site.baseurl }}/assets/images/AI_language.png)
 
 And Matlab is way back with under 2%. 
 Therefore we have the first answer to the state of the art language for the AI development: Python.
@@ -53,13 +56,13 @@ In this case the move from Matlab to Python is a strong recommendation for our g
 ### Programming environment:
 Looking the programming environment, the most used for AI and Python are Visual Studio, Jupyter and PyCharm:
 
-![Development types]({{ site.baseurl }}/assets/images/AI_ProgEnv.png)
+![Code editor for AI]({{ site.baseurl }}/assets/images/AI_ProgEnv.png)
 
 ### AI Library/tools: 
 Another big question is witch AI libraries to use. In my experience, it depends a lot on with witch libraries the people started to learn AI algorithms with.
 On the survey we find four very usual AI libraries: TensorFlow, Scikit-learn, Torch, PyTorch and Keras.
 
-![Development types]({{ site.baseurl }}/assets/images/AI_libraries.png)
+![AI tools and packages]({{ site.baseurl }}/assets/images/AI_libraries.png)
 
 Looking at the group of people working on AI, Sckit-learn  is the most used. But all four libraries are relevant on the field.  Keras and Tourch are very similar.
 
@@ -67,7 +70,7 @@ Looking at the group of people working on AI, Sckit-learn  is the most used. But
 ### Version Management tool:
 GIT is the most used version management tool with a lot of distance to the well known SVN. 
 
-![Development types]({{ site.baseurl }}/assets/images/GIT.png)
+![Version managment tools]({{ site.baseurl }}/assets/images/GIT.png)
 
 Therefore GIT is a good recommendation for our group. This is independent of AI development or other SW development. 
 

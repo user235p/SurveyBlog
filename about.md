@@ -2,6 +2,11 @@
 layout: default
 title: About
 ---
-# About page
+# Joe
 
-This page tells you a little bit about me.
+I am an entusiastic programmer!
+I am looking for learning python and  use it for machine learning algorithms.
+
+I hope you enjoy my site.
+
+Joe.
