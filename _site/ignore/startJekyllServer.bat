@@ -1,2 +1,2 @@
-cd C:\Jose\03_SurveyBlog
+cd D:\03_SurveyBlog
 jekyll server --baseurl ''
