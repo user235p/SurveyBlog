@@ -1,4 +1,7 @@
-I"�<h3 id="witch-sofware-enviroment-tools-are-state-of-the-art-for-ai-development">Witch sofware enviroment tools are state of the art for AI development?</h3>
+I"<p><img src="/assets/images/PostTitle.jpg" width="400" />
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2167835">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2167835">Pixabay</a></p>
+
+<h3 id="witch-sofware-enviroment-tools-are-state-of-the-art-for-ai-development">Witch sofware enviroment tools are state of the art for AI development?</h3>
 <p>A data based approach using Stack Overflow´s developer survey data from 2022.</p>
 
 <h3 id="introduction">Introduction:</h3>
@@ -8,7 +11,27 @@ I want to take you in my journey for the search of such tools for my case. This 
 
 <p>Stack overflow is a well known blog site and they make every year a survey with very interesting questions about the programming field where people arround the world answer. This seems to me a good source of data in order to take my decission based on such facts, avoiding the bias of searching on the web.</p>
 
-<p>So I took the most up-to-date data (survey 2022) and looked for answers to my questions:</p>
+<p>At our group, we want to start AI development. We usually use Matlab in order to write algorithms. And Windows is often used. We don´t use a version management tool at the moment. Therefore we want to answer following questions:</p>
+
+<ol>
+  <li>
+    <p>Witch operating system is most adequate?</p>
+  </li>
+  <li>
+    <p>Does Matlab fits as AI programming language?</p>
+  </li>
+  <li>
+    <p>Witch code editors are more appropiated?</p>
+  </li>
+  <li>
+    <p>Witch AI libraries should we use?</p>
+  </li>
+  <li>
+    <p>Witch version managment is recomended?</p>
+  </li>
+</ol>
+
+<p>So I took the most up-to-date data (survey 2022) and looked for answers.</p>
 
 <h3 id="operating-system">Operating System.</h3>
 <p>Looking at the survey, Windows, Linux and macOS are the most used operating systems.</p>
@@ -23,7 +46,7 @@ I want to take you in my journey for the search of such tools for my case. This 
 
 <p>If we look in the group of people that work with data science or machine learning, windows and Linux are the most used operating systems.</p>
 
-<p><img src="/assets/images/OperatingSystemML.png" alt="Development types" /></p>
+<p><img src="/assets/images/OperatingSystemML.png" alt="OS for machine learning" /></p>
 
 <p>As at my group Windows is good available, we can say that this is an appropriate operating system for us.</p>
 
@@ -32,12 +55,12 @@ I want to take you in my journey for the search of such tools for my case. This 
 <p>At our group there is a main stream for programming SW and working with data: Matlab.
 Looking at the survey it seems not to be the main stream.</p>
 
-<p><img src="/assets/images/Matlab.png" alt="Development types" /></p>
+<p><img src="/assets/images/Matlab.png" alt="Weight of MATLAB" /></p>
 
 <p>Only about 4% of the people work with Matlab. 
 If we look into the group of people working in data science/machine learning, the most used language is Python:</p>
 
-<p><img src="/assets/images/AI_language.png" alt="Development types" /></p>
+<p><img src="/assets/images/AI_language.png" alt="Language for AI" /></p>
 
 <p>And Matlab is way back with under 2%. 
 Therefore we have the first answer to the state of the art language for the AI development: Python.
@@ -46,28 +69,29 @@ In this case the move from Matlab to Python is a strong recommendation for our g
 <h3 id="programming-environment">Programming environment:</h3>
 <p>Looking the programming environment, the most used for AI and Python are Visual Studio, Jupyter and PyCharm:</p>
 
-<p><img src="/assets/images/AI_ProgEnv.png" alt="Development types" /></p>
+<p><img src="/assets/images/AI_ProgEnv.png" alt="Code editor for AI" /></p>
 
 <h3 id="ai-librarytools">AI Library/tools:</h3>
 <p>Another big question is witch AI libraries to use. In my experience, it depends a lot on with witch libraries the people started to learn AI algorithms with.
 On the survey we find four very usual AI libraries: TensorFlow, Scikit-learn, Torch, PyTorch and Keras.</p>
 
-<p><img src="/assets/images/AI_libraries.png" alt="Development types" /></p>
+<p><img src="/assets/images/AI_libraries.png" alt="AI tools and packages" /></p>
 
 <p>Looking at the group of people working on AI, Sckit-learn  is the most used. But all four libraries are relevant on the field.  Keras and Tourch are very similar.</p>
 
 <h3 id="version-management-tool">Version Management tool:</h3>
 <p>GIT is the most used version management tool with a lot of distance to the well known SVN.</p>
 
-<p><img src="/assets/images/GIT.png" alt="Development types" /></p>
+<p><img src="/assets/images/GIT.png" alt="Version managment tools" /></p>
 
 <p>Therefore GIT is a good recommendation for our group. This is independent of AI development or other SW development.</p>
 
 <h2 id="conclusions">Conclusions</h2>
 
-<p>In this post I show you how I searched for a optimal software setup based on data.</p>
-
-<p>In my case the data from Stack Overflow survey gave me a good basis.</p>
+<p>In this post I show you how I searched for a optimal software setup based on data. 
+In my case the data from Stack Overflow survey gave me a good basis.
+You can find my code at the following Github repository:
+https://github.com/user235p/Survey</p>
 
 <p>Applied to my case, the optimal setup for developing AI SW at my group would be:
 Operating System: Windows

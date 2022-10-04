@@ -3,7 +3,9 @@ layout: post
 author: joe
 ---
 
-<img src="{{ site.baseurl }}/assets/images/PostTitle.png" width="400">
+<img src="{{ site.baseurl }}/assets/images/PostTitle.jpg" width="400">
+
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2167835">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2167835">Pixabay</a>
 
 ### Witch sofware enviroment tools are state of the art for AI development?
 A data based approach using Stack Overflow´s developer survey data from 2022.
@@ -15,8 +17,19 @@ I want to take you in my journey for the search of such tools for my case. This 
 
 Stack overflow is a well known blog site and they make every year a survey with very interesting questions about the programming field where people arround the world answer. This seems to me a good source of data in order to take my decission based on such facts, avoiding the bias of searching on the web.
 
-So I took the most up-to-date data (survey 2022) and looked for answers to my questions:
+At our group, we want to start AI development. We usually use Matlab in order to write algorithms. And Windows is often used. We don´t use a version management tool at the moment. Therefore we want to answer following questions:
 
+1. Witch operating system is most adequate?
+
+2. Does Matlab fits as AI programming language?
+
+3. Witch code editors are more appropiated?
+
+4. Witch AI libraries should we use?
+
+5. Witch version managment is recomended?
+
+So I took the most up-to-date data (survey 2022) and looked for answers.
 
 
 ### Operating System.
@@ -77,14 +90,17 @@ Therefore GIT is a good recommendation for our group. This is independent of AI 
 ## Conclusions
 
 In this post I show you how I searched for a optimal software setup based on data. 
-
 In my case the data from Stack Overflow survey gave me a good basis.
+You can find my code at the following Github repository:
+https://github.com/user235p/Survey
 
 Applied to my case, the optimal setup for developing AI SW at my group would be:
 Operating System: Windows
 Language: Python
 Code editor: Visual Studio
 Version managment: GIT 
+
+
 
 I hope it helps you find your right set!
 
